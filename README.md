@@ -40,7 +40,7 @@ This project showcases my skills, experiences, and projects as a [Your Professio
 
 ## 🔗 Live Demo
 
-Check out the live version of the site here: [Your Portfolio URL](#)
+Check out the live version of the site here: [Your Portfolio URL](https://korkoe.vercel.app/)
 
 ## 📋 Getting Started
 
@@ -63,7 +63,7 @@ Check out the live version of the site here: [Your Portfolio URL](#)
    ```bash
    npm run dev
    ```
-   Your site will be available at `http://localhost:3000`.
+   Your site will be available at `http://localhost:5173 `.
 
 ## ✨ Features to Implement
 
@@ -81,7 +81,6 @@ Feel free to reach out for feedback or collaboration!
 
 ---
 
-This README sets a professional tone for your **React** and **TailwindCSS** portfolio project. 🚀
 
 
 
