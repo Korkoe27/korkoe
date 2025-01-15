@@ -46,7 +46,7 @@ Check out the live version of the site here: [Your Portfolio URL](#)
 
 1. **Clone the Repository**:
    ```bash
-https://github.com/Korkoe27/korkoe.git
+git clone https://github.com/Korkoe27/korkoe.git
    ```
 
 2. **Navigate to the Project Folder**:
@@ -82,3 +82,7 @@ Feel free to reach out for feedback or collaboration!
 ---
 
 This README sets a professional tone for your **React** and **TailwindCSS** portfolio project. 🚀
+
+
+
+
